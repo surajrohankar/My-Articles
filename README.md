@@ -12,4 +12,4 @@
 
 * [Error Handling in For Each and Parallel For Each (Mule 4)](https://medium.com/@surajwrohankar/error-handling-in-for-each-and-parallel-for-each-mule-4-c2eb2d0a6568)
 
-* [MuleSoft Meetup Speaker] (https://meetups.mulesoft.com/events/details/mulesoft-varanasi-presents-salesforce-composite-graph-api-with-mule4/)
+* [MuleSoft Meetup Speaker](https://meetups.mulesoft.com/events/details/mulesoft-varanasi-presents-salesforce-composite-graph-api-with-mule4/)
